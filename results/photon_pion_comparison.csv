@@ -1,0 +1,5 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: medphys_photon_pion_comparison.csv>index,case,zmax_cm,peak_energy_MeV,entrance_energy_MeV,peak_to_entrance,mean_depth_cm,rms_depth_cm,first_5cm_percent,first_10cm_percent,total_energy_MeV
+0,10 MeV photons,3.85,165.425,6.69,24.727,22.579,13.745,10.09,23.36,54442.439
+1,93 MeV pi-,24.45,15492.269,2988.369,5.184,16.65,8.741,13.02,26.67,1230705.528
+2,93 MeV pi+,24.15,10810.25,3054.315,3.539,15.727,8.516,14.64,29.44,1271583.486
