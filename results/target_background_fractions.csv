@@ -1,0 +1,5 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: medphys_target_background_fractions.csv>index,case,zmax_cm,target_energy_MeV,background_energy_MeV,target_fraction_percent,background_fraction_percent
+0,10 MeV photons,3.85,3188.553,51253.886,5.856,94.144
+1,93 MeV pi-,24.45,253079.506,977626.022,20.557,79.443
+2,93 MeV pi+,24.15,192950.744,1078632.742,15.169,84.831
