@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+# Simulation outputs / course-provided data
+*.root
+data/raw/
