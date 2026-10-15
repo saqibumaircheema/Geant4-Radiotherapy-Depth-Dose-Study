@@ -1,0 +1,5 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: medphys_layered_phantom_metrics.csv>index,case,zmax_cm,peak_energy_MeV,entrance_energy_MeV,peak_to_entrance,mean_depth_cm,rms_depth_cm,total_energy_MeV
+0,10 MeV photons,16.75,203.424,6.059,33.575,22.311,12.81,61520.3
+1,93 MeV pi-,21.95,24239.128,3011.886,8.048,15.893,7.792,1298565.564
+2,93 MeV pi+,21.75,15076.607,3049.639,4.944,14.747,7.421,1288165.515
